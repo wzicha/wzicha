@@ -1,3 +1,1 @@
-### 👋
-
-### 🌱 I’m currently learning Python
+### 🌱 Creating web applications using Python 
